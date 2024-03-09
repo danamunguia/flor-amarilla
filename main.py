@@ -44,7 +44,7 @@ for i in range(160 + 40):
     if i < 160:
         turtle.stamp()
     
-# Escribe "Te Quiero" en la parte superior del girasol
+# Escribe "Feliz Cumple Uri, Te Quiero Muchisimo" en la parte superior del girasol
 turtle.penup()
 turtle.goto(0, 300)  # Ajusta la posición vertical según sea necesario
 turtle.color("White")  # Color del texto
